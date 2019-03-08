@@ -37,7 +37,7 @@
 
 #set default arguments
 usage="
-(-t <X>-<Y> [if providing a list]) WGS_HaplotypeCaller_GVCFmode.sh -i <InputFile> -r <reference_file> -t <targetfile> -l <logfile> -FBH
+(-t <X>-<Y> [if providing a list]) HaplotypeCaller_GVCFmode.sh -i <InputFile> -r <reference_file> -t <targetfile> -l <logfile> -FBH
 
      -i (required) - Path to Bam file for variant calling or \".list\" file containing a multiple paths
      -r (required) - shell file containing variables with locations of reference files and resource directories
